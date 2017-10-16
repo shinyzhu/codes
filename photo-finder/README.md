@@ -57,4 +57,4 @@ def find_rename_photos(photos_dir, photo_name_data):
             print photo_file, ' is NOT exist so skipped. <=', photo_name_data[k]
 ```
 
-详细代码请看脚本文件[photo_finder.py][]。
+详细代码请看脚本文件[photo_finder.py](photo_finder.py)。
